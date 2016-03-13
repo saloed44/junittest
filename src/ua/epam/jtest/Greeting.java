@@ -2,6 +2,6 @@ package ua.epam.jtest;
 
 public interface Greeting {
 
-	String greet(String name);
+	String greet³(String name);
 
 }
